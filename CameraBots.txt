@@ -1,0 +1,8 @@
+/**************************************************************************************************
+ CameraBots
+ Chatbots overlay on camera.
+ Last Updated: October 26, 2018
+***************************************************************************************************/
+
+The idea is to have chatbots on the front camera. 
+Inspired from :- Instagram filters
