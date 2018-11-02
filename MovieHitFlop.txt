@@ -1,0 +1,9 @@
+/*************************************************************************
+Movie hit or flop?
+Written by:-
+Aadish Joshi | Ashish Sharma | Pandit Joshi
+**************************************************************************/
+Idea is to predict the movie will be a hit or a flop (Indian cenema), by analyzing 
+YouTube Comments, Likes, Dislike, and duration.
+
+(https://developers.google.com/youtube/v3/docs/comments/list)
