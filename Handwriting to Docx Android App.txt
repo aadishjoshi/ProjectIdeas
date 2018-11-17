@@ -1,0 +1,14 @@
+/*******************************************************************
+Handwriting Images to Docx
+Written by:- Aadish Joshi
+***********************************************************************/
+
+Write a server model and create an API to predict handwritten image to Text.
+
+
+Server Model:
+
+1) Trained Convolutional Neural Network server
+2) Python TensorFlow
+3) Should be trained on images NIST.
+4) Write an API [sends image through mobile and return a string of characters to append in docx].
