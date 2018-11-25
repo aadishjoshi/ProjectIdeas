@@ -1,0 +1,11 @@
+/----------------------------------------------------------
+Sudoku Solver
+Written By:- Aadish Joshi
+-----------------------------------------------------------/
+
+Idea
+
+Android app - > click a sudoku photo from the news paper
+-> send the image to server -> (Server 1)replace blank box by '_' and recognize numbers
+using MNIST digit recognition -> (Server 2) sudoku csp (Constraint logic programming)
+-> return stream of numbers -> display in android app
