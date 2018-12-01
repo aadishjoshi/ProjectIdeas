@@ -1,0 +1,7 @@
+/--------------------------------------------------------
+
+3D Software
+©aadishjoshi 
+--------------------------------------------------------/
+
+Idea is to write software to create easiest 3d rotating models 
