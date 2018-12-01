@@ -1,0 +1,8 @@
+/--------------------------------------------------------
+Maze Solver using augmented Reality
+Written by:-
+©aadishjoshi
+--------------------------------------------------------/
+
+Camera -> captures maze -> solves the program and augments the 
+solution path on screen.
